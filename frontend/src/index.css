@@ -88,7 +88,7 @@ main {
 }
 
 .card:hover {
-  transform: translateY(-5px);
+  transform: translateY(-2px);
 }
 
 .card-title strong {
